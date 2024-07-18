@@ -3,7 +3,7 @@
  * Complejidad Espacial -> O( n )
  * Espacio Auxiliar -> O( 1 )
  */
-function selectionSort(arreglo) { //O(n)
+function selectionSort(arreglo) { //O(n commit )
   let longitud = arreglo.length; //O(1)
 
   for (let i = 0; i < longitud; i++) { //O(1)
